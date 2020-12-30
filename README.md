@@ -14,11 +14,13 @@ Compiled Packages Repository For Archcraft OS.
 # Aur Packages
 
 betterlockscreen
+blight
 cava
 colorpicker
 compton-tryone-git
 downgrade
 grub-silent
+i3lock-color
 ksuperkey
 networkmanager-dmenu-git
 obmenu-generator

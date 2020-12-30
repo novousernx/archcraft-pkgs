@@ -4,7 +4,7 @@
 
 ## Dirs
 DIR="$(pwd)"
-LIST=(colorpicker blight betterlockscreen ksuperkey networkmanager-dmenu-git obmenu-generator perl-linux-desktopfiles polybar yay compton-tryone-git rofi-git cava downgrade pyroom pygtk toilet tty-clock unimatrix-git)
+LIST=(colorpicker blight i3lock-color betterlockscreen ksuperkey networkmanager-dmenu-git obmenu-generator perl-linux-desktopfiles polybar yay compton-tryone-git rofi-git cava downgrade pyroom pygtk toilet tty-clock unimatrix-git)
 
 # Sort packages
 PKGS=($(for i in "${LIST[@]}"; do echo $i; done | sort))
